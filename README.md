@@ -76,9 +76,13 @@ Otherwise, generate embeddings using **Sentence Transformers**.
 
 ## 🧠 Key Features
 ✅ **Graph-based Movie Similarity** using embeddings and metadata
+
 ✅ **Graph Neural Network (GNN)** for learning representations
+
 ✅ **A* Search Algorithm** for efficient recommendation
+
 ✅ **Transformer Embeddings** for textual features
+
 ✅ **Clustering for Efficiency** using K-Means
 
 ## 📝 Future Improvements
