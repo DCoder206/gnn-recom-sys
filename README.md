@@ -87,6 +87,6 @@ Otherwise, generate embeddings using **Sentence Transformers**.
 
 ## 📝 Future Improvements
 - **Hyperparameter Optimization** for GNN training
-- **Leveraging Relational Graph Attention Networks (RGAT):** Investigate replacing GraphSAGE with RGAT to dynamically learn attention weights for different relationships in the graph to better capture the nuances of inter-title connections, leading to improved embedding quality and more personalized recommendations.
+- **Leveraging Relational Graph Attention Networks (RGAT)** replacing GraphSAGE with RGAT to dynamically learn attention weights for different relationships in the graph to better capture the nuances of inter-title connections, leading to improved embedding quality and more personalized recommendations.
 - **Integration with External APIs** like IMDb for better results
 - **Interactive Web Interface** for user-friendly experience
